@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./SetiMonokai.tmTheme",
+	"colors": {
+		"editor.background": "#0D1011",
+		"editorCursor.foreground": "#FF8801",
+		"editor.foreground": "#D7D7D7",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#14181a",
+		"editor.selectionBackground": "#444444"
+	},
+	"name": "Seti Minimal"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "seti-minimal",
+    "displayName": "Seti-minimal",
+    "description": "Seti theme with minimal distractions.",
+    "version": "0.0.1",
+    "publisher": "cameroncooper",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Seti Minimal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Seti Minimal-color-theme.json"
+            }
+        ]
+    }
+}
