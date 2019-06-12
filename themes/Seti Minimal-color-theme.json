@@ -6,7 +6,19 @@
 		"editor.foreground": "#D7D7D7",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#14181a",
-		"editor.selectionBackground": "#444444"
+		"editor.selectionBackground": "#444444",
+		"terminal.foreground": "#D7D7D7",
+		"terminal.ansiBlue": "#43a5d5",
+		"terminal.ansiBrightBlue": "#43a5d5",
+		"terminal.ansiYellow": "#e0c64f",
+		"terminal.ansiBrightYellow": "#e0c64f",
+		"terminal.ansiGreen": "#8ec43d",
+		"terminal.ansiBrightGreen": "#8ec43d",
+		"terminal.ansiRed": "#c22832",
+		"terminal.ansiBrightRed": "#c22832",
+		"terminal.ansiMagenta": "#8b57b5",
+		"terminal.ansiBrightMagenta": "#8b57b5",
+		"terminalCursor.foreground": "#fda100"
 	},
 	"name": "Seti Minimal"
 }
