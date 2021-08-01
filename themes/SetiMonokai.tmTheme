@@ -115,7 +115,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8ec43d</string>
+                <string>#e0c64f</string>
             </dict>
         </dict>
         <dict>
@@ -150,7 +150,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#8ec43d</string>
+                <string>#e0c64f</string>
             </dict>
         </dict>
         <dict>
@@ -205,7 +205,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#43a5d5</string>
+                <string>#8ec43d</string>
             </dict>
         </dict>
         <dict>
@@ -486,6 +486,21 @@
         </dict>
     </dict>
     <!-- End Golang -->
+
+    <!-- Start Rust -->
+    <dict>
+        <key>name</key>
+        <string>Function Call</string>
+        <key>scope</key>
+        <string>entity.name.function</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#8ec43d</string>
+        </dict>
+    </dict>
+    <!-- End Rust -->
+
 
     <!-- Start C/C++ -->
     <dict>
